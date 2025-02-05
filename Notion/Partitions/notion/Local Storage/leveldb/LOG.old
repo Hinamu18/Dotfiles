@@ -1,0 +1,18 @@
+2025/02/03-11:14:53.692 6e64 Reusing MANIFEST /home/gfed/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2025/02/03-11:14:53.692 6e64 Recovering log #41
+2025/02/03-11:14:53.692 6e64 Reusing old log /home/gfed/.config/Notion/Partitions/notion/Local Storage/leveldb/000041.log 
+2025/02/03-11:15:07.351 6e65 Level-0 table #45: started
+2025/02/03-11:15:07.359 6e65 Level-0 table #45: 579419 bytes OK
+2025/02/03-11:15:07.361 6e65 Delete type=0 #41
+2025/02/03-11:16:01.287 6e64 Level-0 table #47: started
+2025/02/03-11:16:01.315 6e64 Level-0 table #47: 283951 bytes OK
+2025/02/03-11:16:01.325 6e64 Delete type=0 #44
+2025/02/03-11:16:01.326 6e64 Compacting 4@0 + 1@1 files
+2025/02/03-11:16:01.351 6e64 Generated table #48@0: 191 keys, 1134765 bytes
+2025/02/03-11:16:01.351 6e64 Compacted 4@0 + 1@1 files => 1134765 bytes
+2025/02/03-11:16:01.352 6e64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/03-11:16:01.353 6e64 Delete type=2 #40
+2025/02/03-11:16:01.353 6e64 Delete type=2 #42
+2025/02/03-11:16:01.353 6e64 Delete type=2 #47
+2025/02/03-11:16:01.353 6e64 Delete type=2 #45
+2025/02/03-11:16:01.353 6e64 Delete type=2 #38

@@ -1,0 +1,36 @@
+2025/02/03-11:14:54.072 6e64 Reusing MANIFEST /home/gfed/.config/Notion/Partitions/notion/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/MANIFEST-000001
+2025/02/03-11:14:54.072 6e64 Recovering log #72
+2025/02/03-11:14:54.074 6e64 Reusing old log /home/gfed/.config/Notion/Partitions/notion/IndexedDB/https_www.notion.so_0.indexeddb.leveldb/000072.log 
+2025/02/03-11:14:54.075 6e64 Delete type=2 #71
+2025/02/03-11:14:54.934 6e7b Level-0 table #77: started
+2025/02/03-11:14:54.936 6e7b Level-0 table #77: 127245 bytes OK
+2025/02/03-11:14:54.937 6e7b Delete type=0 #72
+2025/02/03-11:14:54.937 6e64 Manual compaction at level-0 from '\x00\x1a\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1a\x00\x00\x05' @ 23737 : 1
+2025/02/03-11:14:54.937 6e64 Compacting 1@0 + 1@1 files
+2025/02/03-11:14:54.941 6e64 Generated table #78@0: 9198 keys, 117492 bytes
+2025/02/03-11:14:54.941 6e64 Compacted 1@0 + 1@1 files => 117492 bytes
+2025/02/03-11:14:54.942 6e64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/03-11:14:54.942 6e64 Delete type=2 #77
+2025/02/03-11:14:54.942 6e64 Manual compaction at level-0 from '\x00\x1a\x00\x00\x05' @ 23737 : 1 .. '\x00\x1b\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/03-11:14:55.418 6e64 Level-0 table #80: started
+2025/02/03-11:14:55.419 6e64 Level-0 table #80: 538 bytes OK
+2025/02/03-11:14:55.419 6e64 Delete type=2 #74
+2025/02/03-11:14:55.419 6e64 Delete type=0 #76
+2025/02/03-11:14:55.420 6e64 Manual compaction at level-0 from '\x00\x1b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1b\x00\x00\x05' @ 23754 : 1
+2025/02/03-11:14:55.420 6e64 Compacting 1@0 + 1@1 files
+2025/02/03-11:14:55.425 6e64 Generated table #81@0: 9198 keys, 117494 bytes
+2025/02/03-11:14:55.425 6e64 Compacted 1@0 + 1@1 files => 117494 bytes
+2025/02/03-11:14:55.425 6e64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/03-11:14:55.426 6e64 Delete type=2 #80
+2025/02/03-11:14:55.426 6e64 Manual compaction at level-0 from '\x00\x1b\x00\x00\x05' @ 23754 : 1 .. '\x00\x1c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/02/03-11:15:04.053 6e64 Level-0 table #83: started
+2025/02/03-11:15:04.054 6e64 Level-0 table #83: 9478 bytes OK
+2025/02/03-11:15:04.055 6e64 Delete type=2 #78
+2025/02/03-11:15:04.055 6e64 Delete type=0 #79
+2025/02/03-11:15:04.055 6e64 Manual compaction at level-0 from '\x00\x1c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at '\x00\x1c\x00\x00\x05' @ 23994 : 1
+2025/02/03-11:15:04.056 6e64 Compacting 1@0 + 1@1 files
+2025/02/03-11:15:04.061 6e64 Generated table #84@0: 9282 keys, 118526 bytes
+2025/02/03-11:15:04.061 6e64 Compacted 1@0 + 1@1 files => 118526 bytes
+2025/02/03-11:15:04.062 6e64 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/03-11:15:04.062 6e64 Delete type=2 #83
+2025/02/03-11:15:04.062 6e64 Manual compaction at level-0 from '\x00\x1c\x00\x00\x05' @ 23994 : 1 .. '\x00\x1d\x00\x00\x00' @ 0 : 0; will stop at (end)

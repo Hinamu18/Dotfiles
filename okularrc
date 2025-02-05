@@ -1,0 +1,28 @@
+[Desktop Entry]
+FullScreen=false
+shouldShowMenuBarComingFromFullScreen=true
+shouldShowToolBarComingFromFullScreen=true
+
+[General]
+LockSidebar=true
+ShowSidebar=true
+
+[MainWindow]
+ToolBarsMovable=Disabled
+
+[Recent Files]
+File1[$e]=$HOME/Downloads/intro2Csys.pdf
+File2[$e]=$HOME/Downloads/GNUmake.pdf
+File3[$e]=$HOME/Downloads/The_Linux_Command_Line-arabic-14.07.pdf
+File4[$e]=$HOME/Downloads/TheCommandLine.pdf
+File5[$e]=$HOME/Downloads/TheLinuxProgrammer.pdf
+File6[$e]=$HOME/Downloads/C-book.pdf
+Name1[$e]=intro2Csys.pdf
+Name2[$e]=GNUmake.pdf
+Name3[$e]=The_Linux_Command_Line-arabic-14.07.pdf
+Name4[$e]=TheCommandLine.pdf
+Name5[$e]=TheLinuxProgrammer.pdf
+Name6[$e]=C-book.pdf
+
+[UiSettings]
+ColorScheme=Breeze Dark

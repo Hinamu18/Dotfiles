@@ -1,0 +1,20 @@
+[2025-02-03 04:29:57.367] [info]  Websocket listening on 46215...
+[2025-02-03 04:29:57.370] [info]  Setting up up server listeners with auth (c6430c)...
+[2025-02-03 04:29:57.371] [info]              Server up and running
+[2025-02-03 04:29:57.495] [info]              Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+[2025-02-03 04:29:59.500] [info]              Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/Idea-17fa9b95076480468fa3f5dcd3b447d7?pvs=3)
+[2025-02-03 04:30:07.579] [info]              Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+[2025-02-03 11:14:53.870] [info]  Websocket listening on 38951...
+[2025-02-03 11:14:53.875] [info]  Setting up up server listeners with auth (60cdcc)...
+[2025-02-03 11:14:53.876] [info]              Server up and running
+[2025-02-03 11:14:54.036] [info]              Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+[2025-02-03 11:14:54.076] [info]              Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044?pvs=3)
+[2025-02-03 11:15:03.987] [info]              Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+[2025-02-04 06:30:47.728] [info]  Websocket listening on 46463...
+[2025-02-04 06:30:47.732] [info]  Setting up up server listeners with auth (49a9c8)...
+[2025-02-04 06:30:47.732] [info]              Server up and running
+[2025-02-04 06:30:47.867] [info]              Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+[2025-02-04 06:30:49.863] [info]              Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044?pvs=3)
+[2025-02-04 06:30:57.883] [info]              Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+[2025-02-05 03:18:50.839] [info]              Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+[2025-02-05 03:18:50.952] [info]              Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044)

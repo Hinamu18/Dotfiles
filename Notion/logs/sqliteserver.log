@@ -1,0 +1,40 @@
+[2025-02-03 04:29:57.211] [info]  (SqliteServer) Child process running on 46215
+[2025-02-03 04:29:57.376] [info]  (SqliteServer)         stdout: 04:29:57.367 › Websocket listening on 46215...
+
+[2025-02-03 04:29:57.377] [info]  (SqliteServer)         stdout: 04:29:57.370 › Setting up up server listeners with auth (c6430c)...
+04:29:57.371             › Server up and running
+
+[2025-02-03 04:29:57.496] [info]  (SqliteServer)         stdout: 04:29:57.495             › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-02-03 04:29:59.502] [info]  (SqliteServer)         stdout: 04:29:59.500             › Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/Idea-17fa9b95076480468fa3f5dcd3b447d7?pvs=3)
+
+[2025-02-03 04:30:07.579] [info]  (SqliteServer)         stdout: 04:30:07.579             › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+
+[2025-02-03 11:14:53.702] [info]  (SqliteServer) Child process running on 38951
+[2025-02-03 11:14:53.879] [info]  (SqliteServer)         stdout: 11:14:53.870 › Websocket listening on 38951...
+
+[2025-02-03 11:14:53.881] [info]  (SqliteServer)         stdout: 11:14:53.875 › Setting up up server listeners with auth (60cdcc)...
+11:14:53.876             › Server up and running
+
+[2025-02-03 11:14:54.037] [info]  (SqliteServer)         stdout: 11:14:54.036             › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-02-03 11:14:54.077] [info]  (SqliteServer)         stdout: 11:14:54.076             › Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044?pvs=3)
+
+[2025-02-03 11:15:03.988] [info]  (SqliteServer)         stdout: 11:15:03.987             › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+
+[2025-02-04 06:30:47.593] [info]  (SqliteServer) Child process running on 46463
+[2025-02-04 06:30:47.735] [info]  (SqliteServer)         stdout: 06:30:47.728 › Websocket listening on 46463...
+
+[2025-02-04 06:30:47.736] [info]  (SqliteServer)         stdout: 06:30:47.732 › Setting up up server listeners with auth (49a9c8)...
+06:30:47.732             › Server up and running
+
+[2025-02-04 06:30:47.868] [info]  (SqliteServer)         stdout: 06:30:47.867             › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-02-04 06:30:49.864] [info]  (SqliteServer)         stdout: 06:30:49.863             › Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044?pvs=3)
+
+[2025-02-04 06:30:57.883] [info]  (SqliteServer)         stdout: 06:30:57.883             › Listening to 1 MessagePort(s) for renderer 7 (https://www.notion.so/blank)
+
+[2025-02-05 03:18:50.848] [info]  (SqliteServer)         stdout: 03:18:50.839             › Listening to 1 MessagePort(s) for renderer 5 (https://www.notion.so/quick-search)
+
+[2025-02-05 03:18:50.953] [info]  (SqliteServer)         stdout: 03:18:50.952             › Listening to 1 MessagePort(s) for renderer 1 (https://www.notion.so/hinamu/a-18fa9b95076480f1844ffd793eeb3044)
+

@@ -1,0 +1,7 @@
+CCNA
+Downloader
+Hyprland
+LOTM
+Yazi
+yazi
+checksum_v1 = d163d017a17fecc20090a4fd0c5c57b9

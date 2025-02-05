@@ -1,0 +1,21 @@
+2025/02/06-01:59:09.919 2bb19 Reusing MANIFEST /home/gfed/.config/vesktop/sessionData/Local Storage/leveldb/MANIFEST-000001
+2025/02/06-01:59:09.924 2bb19 Recovering log #677
+2025/02/06-01:59:09.924 2bb19 Reusing old log /home/gfed/.config/vesktop/sessionData/Local Storage/leveldb/000677.log 
+2025/02/06-02:00:10.397 2bb1a Level-0 table #681: started
+2025/02/06-02:00:10.403 2bb1a Level-0 table #681: 108711 bytes OK
+2025/02/06-02:00:10.404 2bb1a Delete type=0 #677
+2025/02/06-02:00:10.405 2bb1a Compacting 4@0 + 1@1 files
+2025/02/06-02:00:10.410 2bb1a Generated table #682@0: 126 keys, 165081 bytes
+2025/02/06-02:00:10.411 2bb1a Compacted 4@0 + 1@1 files => 165081 bytes
+2025/02/06-02:00:10.412 2bb1a compacted to: files[ 0 1 0 0 0 0 0 ]
+2025/02/06-02:00:10.412 2bb1a Delete type=2 #681
+2025/02/06-02:00:10.412 2bb1a Delete type=2 #678
+2025/02/06-02:00:10.412 2bb1a Delete type=2 #674
+2025/02/06-02:00:10.412 2bb1a Delete type=2 #672
+2025/02/06-02:00:10.412 2bb1a Delete type=2 #676
+2025/02/06-02:01:50.009 2bb19 Level-0 table #684: started
+2025/02/06-02:01:50.013 2bb19 Level-0 table #684: 94778 bytes OK
+2025/02/06-02:01:50.015 2bb19 Delete type=0 #680
+2025/02/06-02:19:17.584 2bb19 Level-0 table #686: started
+2025/02/06-02:19:17.588 2bb19 Level-0 table #686: 16892 bytes OK
+2025/02/06-02:19:17.590 2bb19 Delete type=0 #683

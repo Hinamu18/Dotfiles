@@ -1,0 +1,24 @@
+2025/02/04-06:30:47.581 e0dc Reusing MANIFEST /home/gfed/.config/Notion/Partitions/notion/Local Storage/leveldb/MANIFEST-000001
+2025/02/04-06:30:47.581 e0dc Recovering log #46
+2025/02/04-06:30:47.581 e0dc Reusing old log /home/gfed/.config/Notion/Partitions/notion/Local Storage/leveldb/000046.log 
+2025/02/04-06:31:01.102 e0dd Level-0 table #51: started
+2025/02/04-06:31:01.110 e0dd Level-0 table #51: 577332 bytes OK
+2025/02/04-06:31:01.110 e0dd Delete type=0 #46
+2025/02/04-06:31:55.202 e0dc Level-0 table #53: started
+2025/02/04-06:31:55.230 e0dc Level-0 table #53: 283422 bytes OK
+2025/02/04-06:31:55.242 e0dc Delete type=0 #50
+2025/02/04-11:12:47.845 e0dd Level-0 table #55: started
+2025/02/04-11:12:47.850 e0dd Level-0 table #55: 14957 bytes OK
+2025/02/04-11:12:47.851 e0dd Delete type=0 #52
+2025/02/05-03:19:00.945 e0dd Level-0 table #57: started
+2025/02/05-03:19:00.959 e0dd Level-0 table #57: 579859 bytes OK
+2025/02/05-03:19:00.960 e0dd Delete type=0 #54
+2025/02/05-03:19:00.961 e0dd Compacting 4@0 + 1@1 files
+2025/02/05-03:19:00.993 e0dd Generated table #58@0: 196 keys, 1138421 bytes
+2025/02/05-03:19:00.993 e0dd Compacted 4@0 + 1@1 files => 1138421 bytes
+2025/02/05-03:19:00.993 e0dd compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/05-03:19:00.994 e0dd Delete type=2 #57
+2025/02/05-03:19:00.994 e0dd Delete type=2 #53
+2025/02/05-03:19:00.994 e0dd Delete type=2 #48
+2025/02/05-03:19:00.994 e0dd Delete type=2 #55
+2025/02/05-03:19:00.994 e0dd Delete type=2 #51

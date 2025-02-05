@@ -1,0 +1,905 @@
+[2025-02-03 04:29:57.134] [info]  App starting with version 4.3.0 (7d8648d) { system: 'linux x64', electron: '33.3.1' }
+[2025-02-03 04:29:57.242] [info]                 App is visible: true
+[2025-02-03 04:29:59.322] [info]                         App is visible: false
+[2025-02-03 04:40:23.355] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'cc0973c8-13a7-427c-97d4-ed24f16132d3',
+    version: '23.13.0.1548',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 209711962,
+    storageQuotaEstimate: 119025451866,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/47508-15de5ebf0d24a58f.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 04:40:23.854] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'cc0973c8-13a7-427c-97d4-ed24f16132d3',
+    version: '23.13.0.1548',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 209711962,
+    storageQuotaEstimate: 119025451866,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/light/brown.3008b746.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 04:45:47.878] [info]                         Preventing closure for window with id 1, hiding
+[2025-02-03 05:10:08.048] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'cc0973c8-13a7-427c-97d4-ed24f16132d3',
+    version: '23.13.0.1548',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 209711962,
+    storageQuotaEstimate: 119025451866,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/47508-15de5ebf0d24a58f.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 05:10:08.548] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'cc0973c8-13a7-427c-97d4-ed24f16132d3',
+    version: '23.13.0.1548',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 209711962,
+    storageQuotaEstimate: 119025451866,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/light/green.b4cce366.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 06:38:55.936] [info]                         App is visible: true
+[2025-02-03 06:38:55.947] [info]                         App is visible: false
+[2025-02-03 11:14:53.639] [info]  App starting with version 4.3.0 (7d8648d) { system: 'linux x64', electron: '33.3.1' }
+[2025-02-03 11:14:53.724] [info]                 App is visible: true
+[2025-02-03 11:14:53.889] [info]                         App is visible: false
+[2025-02-03 11:17:24.215] [info]                         Preventing closure for window with id 1, hiding
+[2025-02-03 11:24:58.075] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: '3299687b-694f-470f-8134-0fda68eb760d',
+    version: '23.13.0.1774',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 212299978,
+    storageQuotaEstimate: 118954291402,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/4902-4e3fe06bfa17faef.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 11:24:58.575] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: '3299687b-694f-470f-8134-0fda68eb760d',
+    version: '23.13.0.1774',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 212299978,
+    storageQuotaEstimate: 118954291402,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textColor/dark/default.c4146f19.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 11:45:06.275] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: '3299687b-694f-470f-8134-0fda68eb760d',
+    version: '23.13.0.1774',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 212299978,
+    storageQuotaEstimate: 118954291402,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/aggregations/empty.5a8e8976.png"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 11:45:06.776] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: '3299687b-694f-470f-8134-0fda68eb760d',
+    version: '23.13.0.1774',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 212299978,
+    storageQuotaEstimate: 118954291402,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/dark/brown.a3bb75d7.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-03 12:39:57.303] [info]                         Quitting...
+[2025-02-04 06:30:47.505] [info]  App starting with version 4.3.0 (7d8648d) { system: 'linux x64', electron: '33.3.1' }
+[2025-02-04 06:30:47.623] [info]                 App is visible: true
+[2025-02-04 06:30:49.702] [info]                         App is visible: false
+[2025-02-04 06:30:52.570] [info]                         Preventing closure for window with id 1, hiding
+[2025-02-04 06:41:13.521] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/51079-07f129bb59599fdd.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 06:41:14.022] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/2869-c7e4a6bf5d1e071c.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:02:02.973] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/CollectionViewAddItemButtonTooltip-4ee1641ce3b785e6.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:02:03.474] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/light/brown.3008b746.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:43:08.008] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/98618-545de316a8435b3f.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:43:08.508] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/dark/pink.14e83959.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:45:53.481] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/RecordMap-71a0f6a14edd168a.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 08:45:53.982] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/localeSetup-zh-CN-55b8b3d4c776a673412ec6f74c495e06.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 11:29:48.486] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/BuilderAddModuleButtonEducationTooltip-10800f9d6f1a640d.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 11:29:48.986] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/dark/red.929b9e90.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 12:29:47.254] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/blocks/breadcrumb.43774c17.png"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 12:29:47.755] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/UnlistedCollectionViewDismissButton-a2a6d75779691a62.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 13:29:49.665] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/blocks/abstract.453c8d20.png"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-04 13:29:50.166] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/textBackground/light/red.ee18081a.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-05 02:59:47.590] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/_assets/25560-ffd1737abc1501d9.js"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-05 02:59:48.090] [info]                         ServerLogger Message {
+  os: 'unknown',
+  platform: 'electron',
+  desktopVersion: '4.3.0',
+  desktopCPU: '13th Gen Intel(R) Core(TM) i7-13620H',
+  desktopRAM: '13G',
+  clientEnvironmentData: {
+    idbSessionId: 'f2ffe743-4bb1-407f-80d9-2ece9cf04987',
+    version: '23.13.0.1777',
+    isElectron: true,
+    os: 'windows',
+    platform: 'electron',
+    userAgent: 'Mozilla/5.0 (X11; Windows x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Notion/4.3.0 Chrome/130.0.6723.170 Electron/33.3.1 Safari/537.36 WantsServiceWorker',
+    is_experimental_build: false,
+    experiments: {},
+    storageUsageEstimate: 214917225,
+    storageQuotaEstimate: 116997050473,
+    desktopOsVersion: 'Unknown',
+    desktopKernelVersion: '6.12.10-arch1-1',
+    desktopElectronVersion: '33.3.1',
+    desktopChromiumVersion: '130.0.6723.170',
+    desktopArch: 'x64',
+    desktopPlatform: 'linux',
+    desktopVersion: '4.3.0',
+    isPersistent: true,
+    userId: '0fb6eeb4-24fc-4669-bafd-78133c3545fc'
+  },
+  environment: 'production',
+  data: {
+    serviceWorkerMajorVersion: 7,
+    serviceWorkerMinorVersion: 0,
+    miscDataString: '{"exception":{},"path":"/images/mab/actions/more.26ba3cd6.svg"}'
+  },
+  level: 'error',
+  from: 'serviceWorker',
+  type: 'cachePutError'
+}
+[2025-02-05 03:18:50.508] [info]                         Sending update install notification to all windows
+[2025-02-05 07:18:02.375] [info]                         Quitting...
